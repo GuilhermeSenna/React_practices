@@ -1,0 +1,10 @@
+.card {
+  background: #fff;
+  text: red;
+  /* text-align: center; */
+  /* flex-grow: 0; */
+  margin: 10px;
+  /* max-width: 50px; */
+  padding: 20px;
+  border-radius: 20px;
+}
